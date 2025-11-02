@@ -70,10 +70,10 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Project specific
-# Uncomment these if you don't want to include data/checkpoints in git
-# data/
-# checkpoints/
+# Project specific - exclude large files
+data/
+checkpoints/
+venv/
 *.pth
 *.pt
 
