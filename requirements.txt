@@ -1,0 +1,20 @@
+# Core deep learning dependencies
+torch>=1.12.0
+torchvision>=0.13.0
+
+# Image processing
+Pillow>=8.0.0
+
+# Visualization and plotting
+matplotlib>=3.5.0
+
+# Scientific computing
+numpy>=1.21.0
+scikit-learn>=1.1.0
+
+# Optional: Progress bars and utilities
+tqdm>=4.64.0
+
+# Optional: Jupyter notebook support (if you want to create notebooks)
+# jupyter>=1.0.0
+# ipykernel>=6.15.0
