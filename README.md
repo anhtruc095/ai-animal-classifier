@@ -48,7 +48,7 @@ This project implements a Convolutional Neural Network (CNN) that can classify i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/animals_classifier.git
+   git clone https://github.com/anhtruc095/animals_classifier.git
    cd animals_classifier
    ```
 
@@ -281,10 +281,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: [https://github.com/yourusername/animals_classifier](https://github.com/yourusername/animals_classifier)
+- **Author**: Tôn Anh Trúc
+- **Email**: anhtruc095@gmail.com
+- **GitHub**: [@anhtruc095](https://github.com/anhtruc095)
+- **Project Link**: [https://github.com/anhtruc095/animals_classifier](https://github.com/anhtruc095/animals_classifier)
 
 ---
 
